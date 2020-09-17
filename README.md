@@ -1,0 +1,2 @@
+# ReplaceScoreFromSSEToSCS
+用于统计2019级从软件学院到计算机学院的德育分的转换
